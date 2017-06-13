@@ -1,3 +1,30 @@
+h1 {
+  float: left;
+  color: orange;
+
+}
+
+h2 {
+  margin-top: 50px;
+}
+
+p {
+  font-size: 2em;
+}
+
+img {
+  height: 280px;
+  width:280px;
+
+}
+
+
+
+
+
+
+
+
 /* Large desktops and laptops */
 @media (min-width: 1200px) {
 
